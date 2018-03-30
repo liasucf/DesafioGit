@@ -2,3 +2,6 @@ O QUE É GIT
 É um sistema de controle de arquivos, em que variós desenvolvedores podem contribuir e modificar os arquivos. 
 A caractéristica principal é que nao se perde informações e que diferentes pessoas podem trabalhar em um mesmo projeto sem precisar excluir o progresso de outra pessoa, somente somam informações ao projeto. 
 
+O QUE É GITHUB
+
+É uma serviço web que utiliza do sistema git. Ele permite que as pessoas publiquem seus projetos, contribuam e acompanhem o trabalho dos outros.
