@@ -1,0 +1,4 @@
+O QUE É GIT
+É um sistema de controle de arquivos, em que variós desenvolvedores podem contribuir e modificar os arquivos. 
+A caractéristica principal é que nao se perde informações e que diferentes pessoas podem trabalhar em um mesmo projeto sem precisar excluir o progresso de outra pessoa, somente somam informações ao projeto. 
+
